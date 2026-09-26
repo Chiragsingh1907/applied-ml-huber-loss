@@ -4,6 +4,9 @@ This repository contains the Python implementation for my **Applied Machine Lear
 
 The goal of this project is to visually demonstrate why **Huber Loss** is a highly robust alternative to **Mean Squared Error (MSE)** when dealing with noisy, real-world data that contains extreme outliers.
 
+## 📈 Software Demonstration
+![Huber Loss Animation](huber_animation.gif)
+
 ## 🧠 What the Code Does
 The `main.py` script generates a synthetic linear dataset and trains two models simultaneously:
 1. A standard Linear Regression model (uses MSE).
