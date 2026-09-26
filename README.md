@@ -4,7 +4,7 @@ This repository contains the Python implementation for my **Applied Machine Lear
 
 The goal of this project is to visually demonstrate why **Huber Loss** is a highly robust alternative to **Mean Squared Error (MSE)** when dealing with noisy, real-world data that contains extreme outliers.
 
-## 📈 Software Demonstration
+## 📈 Visualization of Huber Loss
 ![Huber Loss Animation](huber_animation.gif)
 
 ## 🧠 What the Code Does
